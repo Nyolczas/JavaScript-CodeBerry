@@ -19,4 +19,4 @@ function setColor(i) {
         return 'rgba(50, 50, 50, 0.5)';
     }
 
-};
+}

@@ -17,4 +17,4 @@ function szinezo(i) {
     var hue = Math.round(360 - (360 / 17 * i));
     var t2 = ",79%, 45%, 1)";
     return t1 + hue + t2;
-};
+}
